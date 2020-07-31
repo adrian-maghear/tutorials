@@ -58,9 +58,9 @@
         </profile>
 
         <profile>
-            <id>postgres</id>
+            <id>postgre</id>
             <properties>
-                <spring-boot.run.profiles>postgres</spring-boot.run.profiles>
+                <spring-boot.run.profiles>postgre</spring-boot.run.profiles>
             </properties>
             <dependencies>
                 <dependency>
